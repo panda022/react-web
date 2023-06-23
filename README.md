@@ -1,3 +1,8 @@
+## Demo website 
+Using react.js to build frontend, deploy on the google cloud and connect to Firebase
+[Pan Gong's blog website](https://www.pangong.dev/).
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
